@@ -114,7 +114,7 @@ const categories = [
     title: "Fragrances",
     desc: "Pure Attar Collection",
     items: [
-      { name: "Oud Attar", icon: <Droplets className="w-5 h-5" />, img: "https://www.ompoojashop.com/image/cache/attar/oudh-attar-1-1-1000x1000.jpg " },
+      { name: "Oud Attar", icon: <Droplets className="w-5 h-5" />, img: "https://tse4.mm.bing.net/th/id/OIP.rKipdSzXstJxDUMJT5uSsgHaI4?w=1500&h=1800&rs=1&pid=ImgDetMain&o=7&rm=3" },
       { name: "Amber Attar", icon: <Droplets className="w-5 h-5" />, img: "https://i.etsystatic.com/46869959/r/il/ccde9b/6821556993/il_1080xN.6821556993_qsi1.jpg " },
       { name: "Rose Attar", icon: <Droplets className="w-5 h-5" />, img: "https://kannaujattar.com/wp-content/uploads/2019/05/Ruh-Gulab-Pure-Rose-Extraxt-Kannauj-Buy-Online.jpg " },
       { name: "Musk Attar", icon: <Droplets className="w-5 h-5" />, img: "https://fimgs.net/images/secundar/o.39419.jpg " },
