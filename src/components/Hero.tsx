@@ -15,7 +15,7 @@ export default function Hero() {
       <div className="absolute inset-0 z-0 overflow-hidden pointer-events-none">
         <motion.div
           style={{ 
-            backgroundImage: 'linear-gradient(to bottom, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("https://images3.alphacoders.com/114/1141294.jpg")',
+            backgroundImage: 'linear-gradient(to bottom, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("/stationery-point/sp.jpg")',
             backgroundSize: 'cover',
             backgroundPosition: 'center',
             y: yParallaxSmooth
@@ -60,7 +60,7 @@ export default function Hero() {
               className="text-[clamp(42px,12vw,64px)] md:text-7xl lg:text-8xl xl:text-9xl font-serif font-bold text-white leading-[1.05] md:leading-none text-center whitespace-nowrap mx-auto w-full max-w-full px-2"
               style={{ letterSpacing: '-1px' }}
             >
-              Stationery Point
+              Stationary Point
             </h1>
           </motion.div>
 

@@ -39,7 +39,7 @@ const Header: React.FC<HeaderProps> = ({ isOpen, setIsOpen, isScrolled }) => {
           </div>
           <div className="flex flex-col">
             <span className="text-xl sm:text-2xl md:text-3xl brand-title text-white leading-none">
-              Stationery Point
+              Stationary Point
             </span>
             <span className="text-[9px] md:text-[11px] uppercase tracking-[0.4em] text-white/80 font-mono mt-1 group-hover:text-white transition-colors">
               Premium Essentials

@@ -53,7 +53,7 @@ export default function App() {
 
             <div className="grid md:grid-cols-1 gap-6 md:gap-10 max-w-4xl">
               <p className="text-base md:text-xl font-serif text-white/70 leading-relaxed text-center">
-                Stationery Point is more than just a stationery shop — it is a trusted destination for students, professionals, and families. 
+                Stationary Point is more than just a stationery shop — it is a trusted destination for students, professionals, and families. 
                 We provide high-quality stationery, school essentials, creative supplies, and everyday digital services all in one place.
               </p>
               <p className="text-sm md:text-lg font-serif text-white/50 leading-relaxed text-center italic">

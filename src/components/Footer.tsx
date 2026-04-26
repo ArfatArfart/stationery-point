@@ -45,7 +45,7 @@ export default function Footer() {
               </motion.p>
               <div className="flex gap-4 md:gap-4">
                 {[
-                  { Icon: Instagram, href: "#" },
+                  { Icon: Instagram, href: "https://www.instagram.com/stationary_point_suresh?igsh=eW1zZXg5anE1eDd5" },
                   { Icon: Twitter, href: "#" },
                   { Icon: Facebook, href: "#" },
                   { Icon: WhatsAppIcon, href: "https://chat.whatsapp.com/FdrX6URQBJI6Rvj1qObQ89" }
@@ -198,7 +198,7 @@ export default function Footer() {
               All Rights Reserved
             </p>
             <p className="text-white/10 text-[8px] md:text-[10px] uppercase tracking-[0.4em] font-mono mt-4">
-              Website Designed & Developed by Arfat
+              Website Designed & Developed by Arfat with help of claude AI
             </p>
           </div>
         </div>
